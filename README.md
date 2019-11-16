@@ -1,5 +1,7 @@
 # Marlin 3D Printer Firmware
 
+This fork is configured to work with the Geeetech A10 Printer with BlTouch probe.
+
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=RCBugFix)](https://travis-ci.org/MarlinFirmware/Marlin)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/2224/badge.svg)](https://scan.coverity.com/projects/2224)
 
